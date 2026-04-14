@@ -130,4 +130,4 @@ mcpdemo/
 
 - [Model Context Protocol (MCP) Documentation](https://modelcontextprotocol.io)
 - [Digital Public Library of America](https://dp.la)
-- [DPLA API & Developer Resources](https://dp.la/info/developers/)
+- [DPLA API & Developer Resources](https://pro.dp.la/developers)
