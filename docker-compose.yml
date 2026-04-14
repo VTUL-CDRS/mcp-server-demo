@@ -1,0 +1,9 @@
+services:
+  maps-mcp:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data file so you can update maps.jsonl without rebuilding
+      - ./maps.jsonl:/app/maps.jsonl:ro
+    restart: unless-stopped
