@@ -80,7 +80,7 @@ Once connected, your AI client can invoke the tools below through natural langua
 
 For example, in **Cursor** open **Settings** (`Cmd+,`) → **MCP** → you should see the **maps** server with a green dot and all four tools listed:
 
-![Cursor MCP settings panel showing the maps server connected with search_maps, get_map, filter_maps, and list_maps tools](images/mcp_settings.png)
+<img src="images/mcp_settings.png" width="320" alt="Cursor MCP settings panel showing the maps server connected with search_maps, get_map, filter_maps, and list_maps tools">
 
 ---
 
@@ -107,7 +107,7 @@ Try these in Cursor or Claude Desktop after connecting:
 
 The AI will automatically select and chain the right MCP tools to answer your query. Here's an example of the prompt *"Find geological survey maps from the 1880s"* in action:
 
-![Example query in Cursor: asking for geological survey maps from the 1880s, with the AI running Filter Maps and Search Maps tools and returning structured results](images/example_prompt_demo.png)
+<img src="images/example_prompt_demo.png" width="600" alt="Example query in Cursor: asking for geological survey maps from the 1880s, with the AI running Filter Maps and Search Maps tools and returning structured results">
 
 ---
 
